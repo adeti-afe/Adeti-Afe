@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Adeti Afe
 
-Hi — I'm Adeti Afe. I'm an Environmental Science / Geography & Environmental Systems student focusing on sustainability, GIS, and civil & environmental engineering. I have worked on practical problems like urban heat, green infrastructure, watershed health, and equitable access to environmental resources. I'm also involved in community outreach and digital content.
+Hi, I'm Adeti Afe. I'm an Environmental Science / Geography undergrad student focusing on sustainability, GIS, and pursuing civil & environmental engineering. I have worked on practical problems like urban heat, green infrastructure, watershed health, and equitable access to environmental resources. I'm also involved in community outreach and digital content.
 
 This repo organizes my work, experience, and materials for fellowships and graduate programs.
 
